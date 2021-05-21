@@ -1,0 +1,22 @@
+﻿body {
+    text-align:center;
+    font-family:Algerian;
+    background-color:aquamarine;
+}
+div {
+    margin-top: 15px;
+}
+
+.im_g {
+    display:flex;
+    justify-content:center;
+}
+.sectionstyle {
+    margin-right:25px;
+    margin-left:25px;
+    background-color:white;
+}
+img {
+    width:200px;
+    height:200px;
+}
